@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# WhereDidIPutIt
 
-# Run and deploy your AI Studio app
+A free, offline-first memory app to track where you put your physical belongings.
 
-This contains everything you need to run your app locally.
+No cloud. No login. Everything stays on your device.
 
-View your app in AI Studio: https://ai.studio/apps/23ee3f38-1d17-4973-8d31-5bde1f919287
+## Features
+- Add and search physical items by room and location
+- Natural language search ("Where is my passport?")
+- Move history tracking
+- JSON backup and restore
 
-## Run Locally
+## Tech Stack
+React · TypeScript · Vite · Tailwind CSS
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Live App
+[wheredidiputit.vercel.app](https://wheredidiputit.vercel.app)
