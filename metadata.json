@@ -1,0 +1,6 @@
+{
+  "name": "WhereDidIPutIt",
+  "description": "A personal item-location memory tool to easily remember where you placed physical objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
