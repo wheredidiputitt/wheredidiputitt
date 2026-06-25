@@ -14,4 +14,4 @@ No cloud. No login. Everything stays on your device.
 React · TypeScript · Vite · Tailwind CSS
 
 ## Live App
-[wheredidiputit.vercel.app](https://wheredidiputitt.vercel.app)
+[wheredidiputitt.vercel.app](https://wheredidiputitt.vercel.app)
